@@ -43,6 +43,12 @@ PointsToWood: A deep learning framework for complete canopy leaf-wood segmentati
 
 📎 [Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html) instructions for each OS can be found here.
 
+5. Install git lfs to enable the model file to be downloaded.
+
+'''
+sudo apt-get install git-lfs
+'''
+
 #
 
 ### Running PointsToWood
